@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    // margin-top: 15%;
+    background-image: url(".././img_forest.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+#display {
+    margin-top: 3%;
+    height:6.9vh;
+    width: 20.5%;
+    background-color: rgba(255, 228, 196, 0.8);
+    border-style: double;
+    border-color: slategray;
+    text-align: right;
+    margin-left: 39.8%;
+    font-size: 28px;
+    padding-top: 5px;
+}
+.btn {
+    width: 5%;
+    font-size: 25px;
+    background-color:rgba(9, 51, 9, 0.87);
+    color: bisque;
+    border-color: slategray;
+}
+#clear {
+    width: 20.5%;
+    margin-left: 39.8%;
+}
